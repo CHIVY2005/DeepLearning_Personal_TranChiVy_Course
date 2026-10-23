@@ -203,6 +203,21 @@ cython_debug/
 # Temporary file for partial code execution
 tempCodeRunnerFile.py
 
+# Course local artifacts / non-submission files
+02 - Qui trình học sâu (1709)/**
+03 - Hồi quy tuyến tính và phân lớp/bài tập 1 hồi quy tuyến tính/DL03 - Linear Regresion & Logistic.pdf
+03 - Hồi quy tuyến tính và phân lớp/bài tập 1 hồi quy tuyến tính/DL_01_Regression.docx
+03 - Hồi quy tuyến tính và phân lớp/bài tập 1 hồi quy tuyến tính/DL_01_Regression_P2.docx
+03 - Hồi quy tuyến tính và phân lớp/bài tập 1 hồi quy tuyến tính/build_submission.py
+03 - Hồi quy tuyến tính và phân lớp/bài tập 1 hồi quy tuyến tính/test_submission.py
+04 - Hồi quy logistic và đồ thị tính toán/BT02_ComputationGraph_HoTen_MaSV.docx
+04 - Hồi quy logistic và đồ thị tính toán/DL_02a_Hoi qui logistic va do thi tinh toan.pdf
+04 - Hồi quy logistic và đồ thị tính toán/figures/
+05 - Perceptron và Mạng học sâu/Bài tập 3 Perceptron và Mạng học sâu/DL03_Perceptron va NeuralNet.pdf
+05 - Perceptron và Mạng học sâu/Bài tập 3 Perceptron và Mạng học sâu/DL03_Perceptron va NeuralNet_P2.pdf
+05 - Perceptron và Mạng học sâu/Bài tập 3 Perceptron và Mạng học sâu/_rendered_pages/
+05 - Perceptron và Mạng học sâu/Bài tập 3 Perceptron và Mạng học sâu/figures/
+
 # Ruff stuff:
 .ruff_cache/
 
